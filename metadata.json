@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Aryan Editor Portfolio",
+  "description": "Modern cinematic dark-themed personal portfolio website for Aryan, freelance video editor and content creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
